@@ -26,6 +26,12 @@
             <artifactId>litemall-db</artifactId>
             <version>0.1.0</version>
         </dependency>
+        
+        <dependency>
+            <groupId>org.linlinjava</groupId>
+            <artifactId>litemall-admin-web</artifactId>
+            <version>0.1.0</version>
+        </dependency>
 
         <!-- Spring Boot Web 依赖 -->
         <dependency>
